@@ -1,4 +1,5 @@
-# Setup a game console in a Raspberry pi 3
+# Setup a game console in a Raspberry pi 3 
+## Use your smartphone as controller for the games
 This tutorial will help you to setup your raspberry pi 3 with minimum requirements in order to successfully run **Retropie** and to use as a controller your smartphone or whatever device with a browser connected to the local network.
 
 Here is the working setup for me:
